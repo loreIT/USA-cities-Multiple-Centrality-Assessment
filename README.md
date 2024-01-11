@@ -6,17 +6,29 @@ Welcome to the GitHub repository for my thesis project titled "Decoding City Net
 
 ## Contents:
 
-### Data: Contains datasets used in the analysis, including urban street network data, spatial event records (like road accidents), and other relevant urban data. Each dataset is accompanied by a metadata file describing its source, structure, and any preprocessing steps taken.
+### Data: 
 
-### Scripts: This folder houses all the coding scripts used for data processing, network analysis, centrality computations, and statistical analysis. The scripts are primarily in Python, utilizing libraries like NetworkX, Pandas, and GeoPandas for network analysis and data handling.
+Contains datasets used in the analysis, including urban street network data, spatial event records (like road accidents), and other relevant urban data. Each dataset is accompanied by a metadata file describing its source, structure, and any preprocessing steps taken.
 
-### Analysis Notebooks: Jupyter notebooks detailing the step-by-step analytical process, from data cleaning to advanced network analysis. These notebooks include comments and visualizations to make the research process transparent and reproducible.
+### Scripts:
 
-### Results: Includes the output of analyses such as centrality measures, correlation matrices, and spatial event analyses. Also contains visual representations of networks, spatial data, and any inferential statistical tests conducted.
+This folder houses all the coding scripts used for data processing, network analysis, centrality computations, and statistical analysis. The scripts are primarily in Python, utilizing libraries like NetworkX, Pandas, and GeoPandas for network analysis and data handling.
 
-### Documentation: Detailed documentation on how to use the scripts, interpret the results, and a guide to the structure of the repository. It also includes a summary of the research methodology and a link to the full thesis document.
+### Analysis Notebooks:
 
-### Thesis Document: The full text of the thesis, including an introduction to the study, literature review, methodology, results, discussion, and conclusions.
+Jupyter notebooks detailing the step-by-step analytical process, from data cleaning to advanced network analysis. These notebooks include comments and visualizations to make the research process transparent and reproducible.
+
+### Results:
+
+Includes the output of analyses such as centrality measures, correlation matrices, and spatial event analyses. Also contains visual representations of networks, spatial data, and any inferential statistical tests conducted.
+
+### Documentation:
+
+Detailed documentation on how to use the scripts, interpret the results, and a guide to the structure of the repository. It also includes a summary of the research methodology and a link to the full thesis document.
+
+### Thesis Document:
+
+The full text of the thesis, including an introduction to the study, literature review, methodology, results, discussion, and conclusions.
 
 ## Objective:
 
